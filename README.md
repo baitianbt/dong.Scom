@@ -5,10 +5,10 @@
 
 
 ## 界面展示
-![alt text](.\asset\image.png)
+![alt text](./assets/image.png)
 
-![alt text](.\asset\image1.png)
+![alt text](./assets/image1.png)
 
-![alt text](.\asset\image-2.png)
+![alt text](./assets/image-2.png)
 
-![alt text](.\asset\image-1.png)
+![alt text](./assets/image-1.png)
