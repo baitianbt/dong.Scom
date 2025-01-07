@@ -218,7 +218,7 @@
             tabs1.Style = styleLine1;
             tabs1.TabIndex = 3;
             tabs1.Text = "tabs1";
-            tabs1.SelectedIndexChanged += this.tabs1_SelectedIndexChanged;
+            
             // 
             // tabPage1
             // 
